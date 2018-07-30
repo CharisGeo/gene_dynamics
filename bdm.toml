@@ -1,0 +1,10 @@
+[visualization]
+live = true
+export = true
+export_interval = 1
+
+    [[visualize_sim_object]]
+    name = "MyCell"
+    additional_data_members = [ "diameter_", "cell_type_" ]
+
+  
